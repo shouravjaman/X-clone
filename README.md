@@ -1,4 +1,4 @@
-# X-clone
+# spotify-clone
 This is a responsive recreation of the X homepage interface to gain hands on experience about Tailwind CSS. It is built with HTML
 and Tailwind CSS. This project focuses on the UI and responsiveness to adapt in different screen sizes.
 
